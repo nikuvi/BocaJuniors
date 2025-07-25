@@ -24,3 +24,10 @@
 ## 📁Archivos
 
 - **csv_originales**: Carpeta con archivos csv originales.
+- **csv_limpios**: Carpeta con archivos csv ya limpios y listos para usar.
+- **ETL_resultados**: Archivo ipynb de ETL para csv de resultados.
+- **script-py-to-sql**: Archivo script de Python para cargar archivos csv a base de datos SQL.
+
+
+
+
