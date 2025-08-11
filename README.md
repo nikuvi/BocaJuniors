@@ -29,6 +29,7 @@
 - **csv_originales**: Carpeta con archivos csv originales.
 - **ETL**: Carpeta con archivos ipynb con los procesos de extracción, limpieza y transformación de archivos csv originales.
 - **EDA**: Carpeta con archivos ipynb con los procesos de análisis exploratorio de los csv limpios.
+- **IMG**: Carpeta con todas las imagenes utilizadas.
 - **scripts**: Carpeta con scripts de python utilizados a lo largo del proyecto.
 
 
