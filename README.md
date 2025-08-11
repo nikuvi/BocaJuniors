@@ -1,6 +1,7 @@
 <div>
   <div alig=left>
-    <img src="https://img.icons8.com/?size=100&id=R0uh9mxQ2jsH&format=png&color=000000" alt="Boca Juniors" height=50 width=50/> Boca Juniors
+    <img src="https://img.icons8.com/?size=100&id=R0uh9mxQ2jsH&format=png&color=000000" alt="Boca Juniors" height=50 width=50/> 
+    <h3>Boca Juniors</h3>
 </div>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/BocaJuniors?style=for-the-badge)
