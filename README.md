@@ -1,5 +1,5 @@
 
-<img width="100" height="50" alt="headerBJ" src="https://github.com/user-attachments/assets/0be39c19-16ce-4d28-8123-194848d34573" />
+<img width="1200" height="200" alt="headerBJ" src="https://github.com/user-attachments/assets/0be39c19-16ce-4d28-8123-194848d34573" />
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/BocaJuniors?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/BocaJuniors?style=for-the-badge)
