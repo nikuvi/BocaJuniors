@@ -1,7 +1,5 @@
-<div>
-  <div alig=left>
-    <img src="https://img.icons8.com/?size=100&id=R0uh9mxQ2jsH&format=png&color=000000" alt="Boca Juniors" height=25 width=25/> Boca Juniors
-</div>
+
+<img width="100" height="50" alt="headerBJ" src="https://github.com/user-attachments/assets/0be39c19-16ce-4d28-8123-194848d34573" />
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/nikuvi/BocaJuniors?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/nikuvi/BocaJuniors?style=for-the-badge)
