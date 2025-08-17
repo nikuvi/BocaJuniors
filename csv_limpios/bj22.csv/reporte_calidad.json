@@ -1,0 +1,11 @@
+{
+  "timestamp": "2025-08-16T21:07:15.507135",
+  "resumen": {
+    "registros_originales": 59,
+    "registros_procesados": 50,
+    "registros_eliminados": 9,
+    "columnas_originales": 6,
+    "columnas_procesadas": 6
+  },
+  "calidad_original": {
+    "valores_nulos_total": 
